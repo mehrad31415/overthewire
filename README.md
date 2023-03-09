@@ -1,5 +1,5 @@
-# overthewire
-These are the solutions to the over-the-wire bash scripting questions.
+# overthewire 
+These are the solutions to the over-the-wire bash scripting questions (currently in progress).
 
 The challenges can be found on https://overthewire.org/wargames/bandit<br>
 To learn bash scripting and working with the terminal the following resources are useful:<br>
