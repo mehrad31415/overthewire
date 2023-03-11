@@ -13,4 +13,4 @@ In case you are interested in learning vim:<br>
 3 - https://vimvalley.com/vim-movement-speed-challenge/<br>
 4 - Vim tutorial for beginners by [freecodecamp](https://www.google.com/search?q=youtube+vim&sxsrf=AJOqlzVvm_0JaB1gOug7fY258EKlvqgU_w:1678267981482&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiY3f62g8z9AhVCP-wKHWlLDboQ_AUoAXoECAEQAw&biw=1074&bih=567&dpr=2#fpstate=ive&vld=cid:c9f71bf9,vid:RZ4p-saaQkc)
 
-PS: there are +30 challenegs currently only 9 solutions are provided (in progress).
+PS: there are +30 challenegs currently only 14 solutions are provided (in progress).
